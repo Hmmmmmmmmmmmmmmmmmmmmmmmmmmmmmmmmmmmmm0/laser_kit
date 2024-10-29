@@ -5,4 +5,5 @@ Nani?
 1) Beber
 2) Bober
 3) Abobra
-https://github.com/Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm0/laser_kit/blob/main/photo_2024-10-30_02-02-49.jpg
+
+![photo_2024-10-30_02-02-49](https://github.com/user-attachments/assets/5a248890-2209-43c8-a936-e1567e5e414e)
